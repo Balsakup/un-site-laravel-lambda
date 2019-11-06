@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eab4b31-0d1a-4f59-9374-558a55ebc73b" name="Default Changelist" comment="" />
+    <list default="true" id="4eab4b31-0d1a-4f59-9374-558a55ebc73b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/admin/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin/views/dashboard/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin/views/layouts/default.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin/views/layouts/elements/aside.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin/views/layouts/elements/breadcrumb.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin/views/layouts/elements/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/admin/views/layouts/elements/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +131,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/admin/views" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -142,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573059848185</updated>
-      <workItem from="1573059849405" duration="189000" />
+      <workItem from="1573059849405" duration="1294000" />
     </task>
     <servers />
   </component>
